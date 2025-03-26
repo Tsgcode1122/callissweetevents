@@ -5,6 +5,7 @@ export const Colors = {
   darkGold: "#B27323",
   softLilac: "#F5F4FC",
   pureWhite: "#FFFFFF",
+  black: "#0c0c0c",
 };
 
 export const Shadows = {

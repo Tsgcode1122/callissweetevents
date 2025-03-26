@@ -1,6 +1,6 @@
 // theme.js
 export const breakpoints = {
-  ss: "499", // Small screen
+  ss: "499px", // Small screen
   xs: "679px", // Extra small (phones)
   sm: "767px",
   m: "909px",

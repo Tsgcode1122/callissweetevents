@@ -1,16 +1,18 @@
 import { createGlobalStyle } from "styled-components";
 import { breakpoints } from "./BreakPoints";
+import { Colors } from "../Colors/ColorComponent";
 
 const GlobalStyle = createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Philosopher', sans-serif;
+        font-family: "Scheherazade New", sans-serif;
+        
   }
 
   body {
-    background-color: #fff;
+    background-color: #c1c1c1;
     color: #333;
   }
 
