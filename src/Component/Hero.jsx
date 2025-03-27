@@ -136,12 +136,7 @@ const Content = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  @media screen and (min-width: 1000px) {
-    height: 90vh;
-  }
-  @media screen and (min-width: 1200px) {
-    height: 95vh;
-  }
+
   @media screen and (max-width: 320px) {
     margin-top: -40px;
   }

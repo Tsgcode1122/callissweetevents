@@ -113,7 +113,7 @@ const SidebarContent = styled.div`
   gap: 1.5rem;
   width: 100%;
   height: 100%;
-  background-color: #c8c8c8;
+  background-color: #fbf9f4;
   overflow: auto;
   @media screen and (max-width: 320px) {
     padding: 6rem 0.7rem 1rem 0.7rem;
@@ -128,7 +128,7 @@ const ServiceContent = styled.div`
   gap: 1.5rem;
   width: 100%;
   height: 100%;
-  background: #c1c1c1;
+  background: #fbf9f4;
   padding-top: 6rem;
   overflow: auto;
   transition: display 0.3s ease-in-out;
